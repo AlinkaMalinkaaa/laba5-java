@@ -8,7 +8,7 @@ import java.io.*;
  * Команда выполнения скрипта из файла.
  * Читает команды из файла и выполняет их последовательно.
  *
- * @author Ваше Имя
+ * @author Алина
  * @version 1.0
  */
 public class ExecuteScriptCommand implements Command {
@@ -27,11 +27,9 @@ public class ExecuteScriptCommand implements Command {
     public void execute(CollectionManager manager, String[] args) {
         // Проверка аргументов
         if (args.length == 0 || args[0].trim().isEmpty()) {
-<<<<<<< HEAD
+
             System.out.println(" Ошибка: укажите имя файла");
-=======
-            System.out.println("Ошибка: укажите имя файла");
->>>>>>> 033d09c (добавлен javadoc)
+
             System.out.println("Использование: execute_script <file_name>");
             return;
         }

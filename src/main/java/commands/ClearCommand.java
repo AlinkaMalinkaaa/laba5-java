@@ -6,7 +6,7 @@ import managers.CollectionManager;
  * Команда очистки коллекции.
  * <p>Удаляет все элементы из коллекции (без сохранения в файл).</p>
  *
- * @author Ваше Имя
+ * @author Алина
  * @version 1.0
  */
 public class ClearCommand implements Command {

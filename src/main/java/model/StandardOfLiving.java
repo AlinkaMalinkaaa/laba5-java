@@ -11,7 +11,7 @@ package model;
  *   <li>VERY_LOW - очень низкий</li>
  * </ul>
  *
- * @author Ваше Имя
+ * @author Алина
  * @version 1.0
  */
 public enum StandardOfLiving {

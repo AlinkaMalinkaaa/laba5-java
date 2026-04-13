@@ -9,7 +9,7 @@ import io.UserInput;
  * <p>Запрашивает данные у пользователя через {@link UserInput},
  * создаёт новый объект {@link City} и добавляет его в коллекцию.</p>
  *
- * @author Ваше Имя
+ * @author Алина
  * @version 1.0
  */
 public class AddCommand implements Command {

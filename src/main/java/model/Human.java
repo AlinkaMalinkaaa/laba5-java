@@ -9,7 +9,7 @@ import java.io.Serializable;
  * <p>Реализует {@link Comparable} для сортировки по имени
  * и {@link Serializable} для сохранения в файл.</p>
  *
- * @author Ваше Имя
+ * @author Алина
  * @version 1.0
  */
 // Информация о правителе

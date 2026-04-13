@@ -6,7 +6,7 @@ import managers.CollectionManager;
  * Команда завершения программы.
  * <p>Устанавливает флаг завершения работы приложения.</p>
  *
- * @author Ваше Имя
+ * @author Алина
  * @version 1.0
  */
 public class ExitCommand implements Command {

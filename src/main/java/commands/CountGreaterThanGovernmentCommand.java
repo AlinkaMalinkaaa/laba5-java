@@ -9,7 +9,7 @@ import io.UserInput;
  * <p>Считает количество городов, у которых поле government
  * больше указанного (по порядку в enum).</p>
  *
- * @author Ваше Имя
+ * @author Алина
  * @version 1.0
  */
 public class CountGreaterThanGovernmentCommand implements Command {

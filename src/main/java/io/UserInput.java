@@ -8,7 +8,7 @@ import java.util.Scanner;
  * <p>Предоставляет методы для чтения и валидации ввода
  * для всех полей объекта {@link City}.</p>
  *
- * @author Ваше Имя
+ * @author Алина
  * @version 1.0
  */
 public class UserInput {
@@ -158,7 +158,7 @@ public class UserInput {
         while (population == null || population <= 0) {
             population = readInteger("Население");
             if (population != null && population <= 0) {
-                System.out.println(" Население > 0");
+                System.out.println("Население > 0");
             }
         }
         city.setPopulation(population);

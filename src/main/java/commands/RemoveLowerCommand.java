@@ -9,7 +9,7 @@ import io.UserInput;
  * <p>Удаляет все города из коллекции, которые меньше
  * введённого пользователем города (по ID).</p>
  *
- * @author Ваше Имя
+ * @author Алина
  * @version 1.0
  */
 public class RemoveLowerCommand implements Command {

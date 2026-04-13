@@ -9,7 +9,7 @@ import io.UserInput;
  * <p>Сравнивает новый город с первым элементом коллекции
  * и добавляет только если он меньше (по ID).</p>
  *
- * @author Ваше Имя
+ * @author Алина
  * @version 1.0
  */
 public class AddIfMinCommand implements Command {

@@ -6,7 +6,7 @@ import managers.CollectionManager;
  * Команда вывода справки.
  * <p>Отображает список всех доступных команд с описанием.</p>
  *
- * @author Ваше Имя
+ * @author Алина
  * @version 1.0
  */
 public class HelpCommand implements Command {

@@ -7,7 +7,7 @@ import managers.CollectionManager;
  * <p>Реализует паттерн Command для инкапсуляции запросов.
  * Все команды приложения должны реализовывать этот интерфейс.</p>
  *
- * @author Ваше Имя
+ * @author Алина
  * @version 1.0
  */
 public interface Command {

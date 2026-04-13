@@ -9,7 +9,7 @@ import io.UserInput;
  * <p>Обновляет данные города с указанным идентификатором,
  * сохраняя оригинальную дату создания.</p>
  *
- * @author Ваше Имя
+ * @author Алина
  * @version 1.0
  */
 public class UpdateCommand implements Command {

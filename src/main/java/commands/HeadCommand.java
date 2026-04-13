@@ -6,7 +6,7 @@ import managers.CollectionManager;
  * Команда вывода первого элемента коллекции.
  * <p>Показывает город с минимальным ID (первый после сортировки).</p>
  *
- * @author Ваше Имя
+ * @author Алина
  * @version 1.0
  */
 public class HeadCommand implements Command {

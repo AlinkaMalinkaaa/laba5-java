@@ -7,7 +7,7 @@ import managers.CollectionManager;
  * <p>Находит все города, название которых содержит
  * указанную подстроку (регистр не важен).</p>
  *
- * @author Ваше Имя
+ * @author Алина
  * @version 1.0
  */
 public class FilterContainsNameCommand implements Command {

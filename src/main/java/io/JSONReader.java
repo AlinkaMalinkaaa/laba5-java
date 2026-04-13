@@ -13,7 +13,7 @@ import java.util.LinkedList;
  * <p>Преобразует JSON-строку в коллекцию объектов {@link City}.
  * Используется при загрузке коллекции из файла.</p>
  *
- * @author Ваше Имя
+ * @author Алина
  * @version 1.0
  */
 public class JSONReader {

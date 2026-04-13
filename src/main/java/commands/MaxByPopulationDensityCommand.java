@@ -7,7 +7,7 @@ import managers.CollectionManager;
  * <p>Находит и показывает город с наибольшим значением
  * поля populationDensity.</p>
  *
- * @author Ваше Имя
+ * @author Алина
  * @version 1.0
  */
 public class MaxByPopulationDensityCommand implements Command {

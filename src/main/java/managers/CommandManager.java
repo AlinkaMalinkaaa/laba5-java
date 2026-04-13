@@ -8,7 +8,7 @@ import java.util.*;
  * <p>Регистрирует и выполняет команды приложения.
  * Реализует паттерн Command для инкапсуляции запросов.</p>
  *
- * @author Ваше Имя
+ * @author Алина
  * @version 1.0
  */
 public class CommandManager {

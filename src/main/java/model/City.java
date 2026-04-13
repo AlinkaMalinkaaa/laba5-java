@@ -10,7 +10,7 @@ import java.time.LocalDate;
  * <p>Реализует {@link Comparable} для сортировки по ID (требование задания)
  * и {@link Serializable} для сохранения в файл.</p>
  *
- * @author Ваше Имя
+ * @author Алина
  * @version 1.0
  */
 public class City implements Serializable, Comparable<City> {

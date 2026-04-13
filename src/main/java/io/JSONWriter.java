@@ -11,7 +11,7 @@ import java.util.Collection;
  * <p>Преобразует коллекцию объектов {@link City} в JSON-строку.
  * Используется при сохранении коллекции в файл.</p>
  *
- * @author Ваше Имя
+ * @author Алина
  * @version 1.0
  */
 public class JSONWriter {
@@ -29,6 +29,10 @@ public class JSONWriter {
      * @return JSON-строка с данными
      */
     public static String citiesToJson(Collection<City> cities) {
+        if (cities == null) {
+            return "[]";  // Защита от NullPointerException
+        }
+
         JSONArray array = new JSONArray();
         for (City city : cities) {
             array.put(cityToJSON(city));

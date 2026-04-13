@@ -7,7 +7,7 @@ import managers.CollectionManager;
  * <p>Записывает текущее состояние коллекции в JSON-файл,
  * указанный в переменной окружения CITY_FILE.</p>
  *
- * @author Ваше Имя
+ * @author Алина
  * @version 1.0
  */
 public class SaveCommand implements Command {

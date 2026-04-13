@@ -6,7 +6,7 @@ import managers.CollectionManager;
  * Команда показа всех элементов коллекции.
  * <p>Выводит все города в консоль или сообщение о пустой коллекции.</p>
  *
- * @author Ваше Имя
+ * @author Алина
  * @version 1.0
  */
 public class ShowCommand implements Command {

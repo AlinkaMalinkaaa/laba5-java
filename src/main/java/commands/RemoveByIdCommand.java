@@ -6,7 +6,7 @@ import managers.CollectionManager;
  * Команда удаления элемента по ID.
  * <p>Удаляет город с указанным идентификатором из коллекции.</p>
  *
- * @author Ваше Имя
+ * @author Алина
  * @version 1.0
  */
 public class RemoveByIdCommand implements Command {

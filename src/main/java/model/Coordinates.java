@@ -9,7 +9,7 @@ import java.io.Serializable;
  * <p>Реализует {@link Comparable} для сортировки координат
  * и {@link Serializable} для сохранения в файл.</p>
  *
- * @author Ваше Имя
+ * @author Алина
  * @version 1.0
  */
 public class Coordinates implements Serializable, Comparable<Coordinates> {

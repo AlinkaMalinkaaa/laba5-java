@@ -4,7 +4,6 @@ import managers.CollectionManager;
 import managers.CommandManager;
 import commands.*;
 import java.util.Scanner;
-
 /**
  * Точка входа в приложение City Collection Manager.
  * <p>Инициализирует менеджеры коллекции и команд,
@@ -14,7 +13,8 @@ import java.util.Scanner;
  * <p>При запуске загружает коллекцию из файла (если существует),
  * при завершении сохраняет изменения (по команде save).</p>
  *
- * @author Ваше Имя
+ * @author Алина
+ *
  * @version 1.0
  */
 public class Main {
